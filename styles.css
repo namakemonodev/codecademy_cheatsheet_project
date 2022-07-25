@@ -1,0 +1,45 @@
+* {
+    background-color: LightCyan;
+  }
+  
+  h1 {
+    font-family: Verdana;
+    text-align: center;
+    color: LightSlateGrey;
+  }
+  
+  p {
+    font-family: Garamond;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
+  table, th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 3px solid;
+  }
+  
+  th {
+    border: 3px solid Black;
+    font-size: 35px;
+    background-color: MediumTurquoise;
+    color: White;
+  }
+
+  tr {
+    font-size: 20px;
+  }
+
+
+  
